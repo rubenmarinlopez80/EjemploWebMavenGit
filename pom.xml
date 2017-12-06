@@ -23,5 +23,6 @@
         </configuration>
       </plugin>
     </plugins>
+    prueba
   </build>
 </project>
